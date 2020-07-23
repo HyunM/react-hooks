@@ -5,7 +5,7 @@ import AppUgly from "./AppUgly.jsx";
 
 ReactDOM.render(
   <React.StrictMode>
-    <AppUgly />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
